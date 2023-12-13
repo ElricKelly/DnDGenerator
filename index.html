@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DnD Randomizer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>DnD Randomizer</h1>
+    <p>Generate random loot, characters, and more!</p>
+  </header>
+  
+  <main>
+    <div class="filters">
+      <label for="randomType">Select Type:</label>
+      <select id="randomType">
+        <option value="character">Character</option>
+        <option value="loot">Loot</option>
+        <option value="magicItem">Magic Item</option>
+        <!-- Add more options for monsters, events, etc. -->
+      </select>
+
+      <label for="raceFilter">Filter by Race:</label>
+      <input type="text" id="raceFilter" placeholder="Enter race">
+
+      <label for="itemFilter">Filter Items:</label>
+      <input type="text" id="itemFilter" placeholder="Enter item type">
+
+      <button onclick="generateRandom()">Generate Random</button>
+    </div>
+
+    <div class="results">
+      <h2>Results</h2>
+      <div id="output">
+        <!-- Result will appear here -->
+      </div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
