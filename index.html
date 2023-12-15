@@ -3,41 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <title>DnD Randomizer</title>
-  <link rel="stylesheet" href="styles.css">
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-  <header>
-    <h1>DnD Randomizer</h1>
-    <p>Generate random loot, characters, and more!</p>
-  </header>
+  <div id="headerContainer"></div>
   
   <main>
-    <div class="filters">
-      <label for="randomType">Select Type:</label>
-      <select id="randomType">
-        <option value="character">Character</option>
-        <option value="loot">Loot</option>
-        <option value="magicItem">Magic Item</option>
-        <!-- Add more options for monsters, events, etc. -->
-      </select>
-
-      <label for="raceFilter">Filter by Race:</label>
-      <input type="text" id="raceFilter" placeholder="Enter race">
-
-      <label for="itemFilter">Filter Items:</label>
-      <input type="text" id="itemFilter" placeholder="Enter item type">
-
-      <button onclick="generateRandom()">Generate Random</button>
-    </div>
-
-    <div class="results">
-      <h2>Results</h2>
-      <div id="output">
-        <!-- Result will appear here -->
-      </div>
+    <div class="mainGeneratorOptionsContainer">
+      <a href="generatorOptions/NPCs/fullNPCs.html" class="btn btn-primary">NPCs</a>
+      <a href="generatorOptions/Loot/loot.html" class="btn btn-primary">Loot</a>
+      <a href="generatorOptions/Encounters/encounters.html" class="btn btn-primary">Encounters</a>
     </div>
   </main>
 
-  <script src="script.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="scripts/script.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>

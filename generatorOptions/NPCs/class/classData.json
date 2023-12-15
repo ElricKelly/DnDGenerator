@@ -1,0 +1,74 @@
+[
+  {
+    "class": "Barbarian",
+    "subclasses": ["Path of the Berserker", "Path of the Totem Warrior", "Path of the Ancestral Guardian", "Path of the Battlerager", "Path of the Beast", "Path of the Berserker", "Path of the Storm Herald", "Path of the Zealot"]
+  },
+  {
+    "class": "Bard",
+    "subclasses": ["College of Lore", "College of Valor", "College of Glamour", "College of Swords", "College of Whispers", "College of Creation", "College of Eloquence"]
+  },
+  {
+    "class": "Cleric",
+    "subclasses": ["Knowledge Domain", "Life Domain", "Light Domain", "Nature Domain", "Tempest Domain", "Trickery Domain", "War Domain", "Death Domain", "Forge Domain", "Grave Domain", "Order Domain", "Peace Domain"]
+  },
+  {
+    "class": "Druid",
+    "subclasses": ["Circle of the Land", "Circle of the Moon", "Circle of Dreams", "Circle of the Shepherd", "Circle of Spores", "Circle of Stars", "Circle of Wildfire"]
+  },
+  {
+    "class": "Fighter",
+    "subclasses": ["Champion", "Battle Master", "Eldritch Knight", "Arcane Archer", "Cavalier", "Samurai", "Echo Knight", "Psi Warrior", "Rune Knight"]
+  },
+  {
+    "class": "Monk",
+    "subclasses": ["Way of the Open Hand", "Way of Shadow", "Way of the Four Elements", "Way of the Drunken Master", "Way of the Kensei", "Way of the Sun Soul", "Way of Mercy"]
+  },
+  {
+    "class": "Paladin",
+    "subclasses": ["Oath of Devotion", "Oath of the Ancients", "Oath of Vengeance", "Oath of Conquest", "Oath of Redemption", "Oath of the Crown", "Oath of Heroism", "Oath of the Watchers"]
+  },
+  {
+    "class": "Ranger",
+    "subclasses": ["Hunter", "Beast Master", "Gloom Stalker", "Horizon Walker", "Beast Conclave", "Swarmkeeper", "Fey Wanderer"]
+  },
+  {
+    "class": "Rogue",
+    "subclasses": ["Thief", "Assassin", "Arcane Trickster", "Mastermind", "Swashbuckler", "Inquisitive", "Scout", "Phantom"]
+  },
+  {
+    "class": "Sorcerer",
+    "subclasses": ["Draconic Bloodline", "Wild Magic", "Divine Soul", "Shadow Magic", "Storm Sorcery", "Aberrant Mind", "Clockwork Soul"]
+  },
+  {
+    "class": "Warlock",
+    "subclasses": ["The Archfey", "The Fiend", "The Great Old One", "The Celestial", "The Hexblade", "The Undying", "The Genie", "The Fathomless"]
+  },
+  {
+    "class": "Wizard",
+    "subclasses": ["School of Abjuration", "School of Conjuration", "School of Divination", "School of Enchantment", "School of Evocation", "School of Illusion", "School of Necromancy", "School of Transmutation", "Bladesinging", "Order of Scribes"]
+  },
+  {
+    "class": "Artificer",
+    "subclasses": ["Alchemist", "Artillerist", "Battle Smith"]
+  },
+  {
+    "class": "Blood Hunter",
+    "subclasses": ["Order of the Ghostslayer", "Order of the Profane Soul", "Order of the Lycan", "Order of my Butt"]
+  },
+  {
+    "class": "Mystic",
+    "subclasses": ["Order of the Avatar", "Order of the Awakened", "Order of the Immortal", "Order of the Nomad", "Order of the Soul Knife"]
+  },
+  {
+    "class": "Psion",
+    "subclasses": ["Order of the Awakened", "Order of the Immortal", "Order of the Nomad"]
+  },
+  {
+    "class": "Shaman",
+    "subclasses": ["Elemental", "Spirit", "Hexer"]
+  },
+  {
+    "class": "Warlord",
+    "subclasses": ["Tactician", "Combat Engineer", "Inspiring General"]
+  }
+]
