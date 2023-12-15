@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>DnD Randomizer - Full NPC</title>
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../../css/styles.css"/>
+  </head>
+
+  <body>
+    <header >
+        <a href="../../index.html" class="btn btn-primary header-text">
+           DnD Generator
+       </a>
+       <h1>Full NPC</h1>
+       </header>
+
+    <main>
+      <form id="npcForm">
+        <label for="nameInput">Name:</label>
+        <input type="text" id="nameInput" placeholder="Lord Berdregard"><br><br>
+    
+        <label for="genderInput">Gender:</label>
+        <select id="genderInput">
+          <option value="random" selected>Random</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="nonbinary">Non-Binary</option>
+        </select><br><br>
+    
+        <label for="cultureInput">Culture:</label>
+        <select type="text" id="cultureInput"></select><br><br>
+    
+        <label for="titlesQuantity">Titles (Select Quantity):</label>
+        <input type="number" id="titlesQuantity" min="0"><br><br>
+    
+        <label for="nicknamesQuantity">Nicknames (Select Quantity):</label>
+        <input type="number" id="nicknamesQuantity" min="0"><br><br>
+    
+        <label for="visualTraitsQuantity">Visual Traits (Select Quantity):</label>
+        <input type="number" id="visualTraitsQuantity" min="0"><br><br>
+    
+        <label for="classSelect">Class:</label>
+        <select id="classSelect">
+          <option value="">Select Class</option>
+        </select><br><br>
+    
+        <label for="subclassSelect">Subclass:</label>
+        <select id="subclassSelect">
+          <option value="">Select Subclass</option>
+          <!-- Subclass options will be populated dynamically based on class selection -->
+        </select><br><br>
+    
+        <label for="raceSelect">Race:</label>
+        <select id="raceSelect">
+          
+        </select><br><br>
+
+        <label for="raceDeselect">Race (Deselect options):</label>
+        <select id="raceDeselect" multiple>
+          
+        </select><br><br>
+    
+        <label for="personalityTraitsQuantity">Personality Traits (Select Quantity):</label>
+        <input type="number" id="personalityTraitsQuantity" min="0"><br><br>
+    
+        <label for="physicalFlawsQuantity">Physical Flaws (Select Quantity):</label>
+        <input type="number" id="physicalFlawsQuantity" min="0"><br><br>
+    
+        <label for="existentialFlawsQuantity">Existential Flaws (Select Quantity):</label>
+        <input type="number" id="existentialFlawsQuantity" min="0"><br><br>
+    
+        <label for="backgroundSelect">Background:</label>
+        <select id="backgroundSelect">
+          <option value="">Select Background</option>
+          <!-- Add background options here -->
+        </select><br><br>
+    
+        <button type="button" onclick="generateNPC()" class="btn btn-primary">Generate</button>
+      </form>
+    </main>
+
+    <script src="npcGenerator.js"></script>
+    <script src="populateOptions.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="../../scripts/script.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  </body>
+</html>

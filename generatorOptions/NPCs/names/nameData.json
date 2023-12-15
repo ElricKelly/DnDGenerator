@@ -1,0 +1,802 @@
+[
+    {
+      "name": "Aelar",
+      "culture": "Elven",
+      "gender": "Male"
+    },
+    {
+      "name": "Lyra",
+      "culture": "Dwarven",
+      "gender": "Female"
+    },
+    {
+      "name": "Theren",
+      "culture": "Human",
+      "gender": "Male"
+    },
+    {
+      "name": "Erevan",
+      "culture": "Elven",
+      "gender": "Male"
+    },
+    {
+      "name": "Sariel",
+      "culture": "Elven",
+      "gender": "Female"
+    },
+    {
+      "name": "Brom",
+      "culture": "Dwarven",
+      "gender": "Male"
+    },
+    {
+      "name": "Ravenna",
+      "culture": "Human",
+      "gender": "Female"
+    },
+    {
+      "name": "Draxon",
+      "culture": "Dragonborn",
+      "gender": "Male"
+    },
+    {
+      "name": "Isolde",
+      "culture": "Human",
+      "gender": "Female"
+    },
+    {
+      "name": "Thorin",
+      "culture": "Dwarven",
+      "gender": "Male"
+    },
+    {
+        "name": "Eldrin",
+        "culture": "Elven",
+        "gender": "Male"
+      },
+      {
+        "name": "Faelivrin",
+        "culture": "Elven",
+        "gender": "Female"
+      },
+      {
+        "name": "Grimm",
+        "culture": "Dwarven",
+        "gender": "Male"
+      },
+      {
+        "name": "Halia",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Ildris",
+        "culture": "Elven",
+        "gender": "Male"
+      },
+      {
+        "name": "Kara",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Morgryn",
+        "culture": "Dwarven",
+        "gender": "Male"
+      },
+      {
+        "name": "Narise",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Orin",
+        "culture": "Human",
+        "gender": "Male"
+      },
+      {
+        "name": "Rava",
+        "culture": "Elven",
+        "gender": "Female"
+      },
+      {
+        "name": "Syrin",
+        "culture": "Elven",
+        "gender": "Female"
+      },
+      {
+        "name": "Tormund",
+        "culture": "Dwarven",
+        "gender": "Male"
+      },
+      {
+        "name": "Uldar",
+        "culture": "Dwarven",
+        "gender": "Male"
+      },
+      {
+        "name": "Vaelis",
+        "culture": "Elven",
+        "gender": "Male"
+      },
+      {
+        "name": "Wren",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Thorin",
+        "culture": "Dwarf",
+        "gender": "Male"
+      },
+      {
+        "name": "Brienne",
+        "culture": "Dwarf",
+        "gender": "Female"
+      },
+      {
+        "name": "Legolas",
+        "culture": "Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Galadriel",
+        "culture": "Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Samwise",
+        "culture": "Halfling",
+        "gender": "Male"
+      },
+      {
+        "name": "Rosie",
+        "culture": "Halfling",
+        "gender": "Female"
+      },
+      {
+        "name": "Aragorn",
+        "culture": "Human",
+        "gender": "Male"
+      },
+      {
+        "name": "Eowyn",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Rathgar",
+        "culture": "Dragonborn",
+        "gender": "Male"
+      },
+      {
+        "name": "Kava",
+        "culture": "Dragonborn",
+        "gender": "Female"
+      },
+      {
+        "name": "Ziggy",
+        "culture": "Gnome",
+        "gender": "Male"
+      },
+      {
+        "name": "Tilda",
+        "culture": "Gnome",
+        "gender": "Female"
+      },
+      {
+        "name": "Elrond",
+        "culture": "Half-Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Arwen",
+        "culture": "Half-Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Grumsh",
+        "culture": "Half-Orc",
+        "gender": "Male"
+      },
+      {
+        "name": "Ugla",
+        "culture": "Half-Orc",
+        "gender": "Female"
+      },
+      {
+        "name": "Mephistopheles",
+        "culture": "Tiefling",
+        "gender": "Male"
+      },
+      {
+        "name": "Lilith",
+        "culture": "Tiefling",
+        "gender": "Female"
+      },
+      {
+        "name": "Glimmer",
+        "culture": "Dwarf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Orion",
+        "culture": "Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Pip",
+        "culture": "Halfling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Sasha",
+        "culture": "Human",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Ash",
+        "culture": "Dragonborn",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Quill",
+        "culture": "Gnome",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Aster",
+        "culture": "Half-Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Thorn",
+        "culture": "Half-Orc",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Raven",
+        "culture": "Tiefling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Gimli",
+        "culture": "Dwarf",
+        "gender": "Male"
+      },
+      {
+        "name": "Frea",
+        "culture": "Dwarf",
+        "gender": "Female"
+      },
+      {
+        "name": "Finrod",
+        "culture": "Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Luthien",
+        "culture": "Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Pippin",
+        "culture": "Halfling",
+        "gender": "Male"
+      },
+      {
+        "name": "Primrose",
+        "culture": "Halfling",
+        "gender": "Female"
+      },
+      {
+        "name": "Alden",
+        "culture": "Human",
+        "gender": "Male"
+      },
+      {
+        "name": "Eleanor",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Zephyrion",
+        "culture": "Dragonborn",
+        "gender": "Male"
+      },
+      {
+        "name": "Vaela",
+        "culture": "Dragonborn",
+        "gender": "Female"
+      },
+      {
+        "name": "Pipkin",
+        "culture": "Gnome",
+        "gender": "Male"
+      },
+      {
+        "name": "Twyla",
+        "culture": "Gnome",
+        "gender": "Female"
+      },
+      {
+        "name": "Archer",
+        "culture": "Half-Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Lyra",
+        "culture": "Half-Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Grunth",
+        "culture": "Half-Orc",
+        "gender": "Male"
+      },
+      {
+        "name": "Ursa",
+        "culture": "Half-Orc",
+        "gender": "Female"
+      },
+      {
+        "name": "Moloch",
+        "culture": "Tiefling",
+        "gender": "Male"
+      },
+      {
+        "name": "Sylvia",
+        "culture": "Tiefling",
+        "gender": "Female"
+      },
+      {
+        "name": "Bristle",
+        "culture": "Dwarf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Lorelei",
+        "culture": "Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Soot",
+        "culture": "Halfling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Ember",
+        "culture": "Human",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Zephyr",
+        "culture": "Dragonborn",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Glitter",
+        "culture": "Gnome",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Aria",
+        "culture": "Half-Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Slate",
+        "culture": "Half-Orc",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Shade",
+        "culture": "Tiefling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Bromir",
+        "culture": "Dwarf",
+        "gender": "Male"
+      },
+      {
+        "name": "Yselda",
+        "culture": "Dwarf",
+        "gender": "Female"
+      },
+      {
+        "name": "Aerendil",
+        "culture": "Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Elowen",
+        "culture": "Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Finnegan",
+        "culture": "Halfling",
+        "gender": "Male"
+      },
+      {
+        "name": "Poppy",
+        "culture": "Halfling",
+        "gender": "Female"
+      },
+      {
+        "name": "Cassius",
+        "culture": "Human",
+        "gender": "Male"
+      },
+      {
+        "name": "Seraphina",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Kaelstrom",
+        "culture": "Dragonborn",
+        "gender": "Male"
+      },
+      {
+        "name": "Vespera",
+        "culture": "Dragonborn",
+        "gender": "Female"
+      },
+      {
+        "name": "Ricket",
+        "culture": "Gnome",
+        "gender": "Male"
+      },
+      {
+        "name": "Periwinkle",
+        "culture": "Gnome",
+        "gender": "Female"
+      },
+      {
+        "name": "Elias",
+        "culture": "Half-Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Althea",
+        "culture": "Half-Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Grimmjaw",
+        "culture": "Half-Orc",
+        "gender": "Male"
+      },
+      {
+        "name": "Thorn",
+        "culture": "Half-Orc",
+        "gender": "Female"
+      },
+      {
+        "name": "Lucifer",
+        "culture": "Tiefling",
+        "gender": "Male"
+      },
+      {
+        "name": "Azura",
+        "culture": "Tiefling",
+        "gender": "Female"
+      },
+      {
+        "name": "Sparrow",
+        "culture": "Dwarf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Iris",
+        "culture": "Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Beech",
+        "culture": "Halfling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Ember",
+        "culture": "Human",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Kaleo",
+        "culture": "Dragonborn",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Pickle",
+        "culture": "Gnome",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Rain",
+        "culture": "Half-Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Boulder",
+        "culture": "Half-Orc",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Onyx",
+        "culture": "Tiefling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Zaragon",
+        "culture": "Dwarf",
+        "gender": "Male"
+      },
+      {
+        "name": "Thyra",
+        "culture": "Dwarf",
+        "gender": "Female"
+      },
+      {
+        "name": "Aelorin",
+        "culture": "Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Ysalyra",
+        "culture": "Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Rumpus",
+        "culture": "Halfling",
+        "gender": "Male"
+      },
+      {
+        "name": "Glimmer",
+        "culture": "Halfling",
+        "gender": "Female"
+      },
+      {
+        "name": "Kael'thas",
+        "culture": "Human",
+        "gender": "Male"
+      },
+      {
+        "name": "Elandra",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Zythoros",
+        "culture": "Dragonborn",
+        "gender": "Male"
+      },
+      {
+        "name": "Valerixa",
+        "culture": "Dragonborn",
+        "gender": "Female"
+      },
+      {
+        "name": "Fizzbang",
+        "culture": "Gnome",
+        "gender": "Male"
+      },
+      {
+        "name": "Gossamer",
+        "culture": "Gnome",
+        "gender": "Female"
+      },
+      {
+        "name": "Erevael",
+        "culture": "Half-Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Auriel",
+        "culture": "Half-Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Gorthak",
+        "culture": "Half-Orc",
+        "gender": "Male"
+      },
+      {
+        "name": "Grimclaw",
+        "culture": "Half-Orc",
+        "gender": "Female"
+      },
+      {
+        "name": "Azazel",
+        "culture": "Tiefling",
+        "gender": "Male"
+      },
+      {
+        "name": "Lilith",
+        "culture": "Tiefling",
+        "gender": "Female"
+      },
+      {
+        "name": "Xanthe",
+        "culture": "Dwarf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Zephyrus",
+        "culture": "Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Nimble",
+        "culture": "Halfling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Kai",
+        "culture": "Human",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Pyre",
+        "culture": "Dragonborn",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Whimsy",
+        "culture": "Gnome",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Ember",
+        "culture": "Half-Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Raven",
+        "culture": "Half-Orc",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Vex",
+        "culture": "Tiefling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Gronkthor",
+        "culture": "Dwarf",
+        "gender": "Male"
+      },
+      {
+        "name": "Fizzabella",
+        "culture": "Dwarf",
+        "gender": "Female"
+      },
+      {
+        "name": "Zephyros",
+        "culture": "Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Galaxia",
+        "culture": "Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Blippity",
+        "culture": "Halfling",
+        "gender": "Male"
+      },
+      {
+        "name": "Sparklepop",
+        "culture": "Halfling",
+        "gender": "Female"
+      },
+      {
+        "name": "Thunderstrike",
+        "culture": "Human",
+        "gender": "Male"
+      },
+      {
+        "name": "Seraphim",
+        "culture": "Human",
+        "gender": "Female"
+      },
+      {
+        "name": "Zapathon",
+        "culture": "Dragonborn",
+        "gender": "Male"
+      },
+      {
+        "name": "Sapphire",
+        "culture": "Dragonborn",
+        "gender": "Female"
+      },
+      {
+        "name": "Gizmofluff",
+        "culture": "Gnome",
+        "gender": "Male"
+      },
+      {
+        "name": "Rainbow",
+        "culture": "Gnome",
+        "gender": "Female"
+      },
+      {
+        "name": "Eclipse",
+        "culture": "Half-Elf",
+        "gender": "Male"
+      },
+      {
+        "name": "Stardust",
+        "culture": "Half-Elf",
+        "gender": "Female"
+      },
+      {
+        "name": "Snarltooth",
+        "culture": "Half-Orc",
+        "gender": "Male"
+      },
+      {
+        "name": "Shadowclaw",
+        "culture": "Half-Orc",
+        "gender": "Female"
+      },
+      {
+        "name": "Inferno",
+        "culture": "Tiefling",
+        "gender": "Male"
+      },
+      {
+        "name": "Nebula",
+        "culture": "Tiefling",
+        "gender": "Female"
+      },
+      {
+        "name": "Pixel",
+        "culture": "Dwarf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Zigzag",
+        "culture": "Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Twinkle",
+        "culture": "Halfling",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Electra",
+        "culture": "Human",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Quasar",
+        "culture": "Dragonborn",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Gadget",
+        "culture": "Gnome",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Cosmos",
+        "culture": "Half-Elf",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Razor",
+        "culture": "Half-Orc",
+        "gender": "Nonbinary"
+      },
+      {
+        "name": "Nova",
+        "culture": "Tiefling",
+        "gender": "Nonbinary"
+      }
+  ]
