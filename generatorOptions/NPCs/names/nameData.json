@@ -126,22 +126,22 @@
       },
       {
         "name": "Thorin",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Male"
       },
       {
         "name": "Brienne",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Female"
       },
       {
         "name": "Legolas",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Male"
       },
       {
         "name": "Galadriel",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Female"
       },
       {
@@ -216,12 +216,12 @@
       },
       {
         "name": "Glimmer",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Nonbinary"
       },
       {
         "name": "Orion",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Nonbinary"
       },
       {
@@ -261,22 +261,22 @@
       },
       {
         "name": "Gimli",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Male"
       },
       {
         "name": "Frea",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Female"
       },
       {
         "name": "Finrod",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Male"
       },
       {
         "name": "Luthien",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Female"
       },
       {
@@ -351,12 +351,12 @@
       },
       {
         "name": "Bristle",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Nonbinary"
       },
       {
         "name": "Lorelei",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Nonbinary"
       },
       {
@@ -396,22 +396,22 @@
       },
       {
         "name": "Bromir",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Male"
       },
       {
         "name": "Yselda",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Female"
       },
       {
         "name": "Aerendil",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Male"
       },
       {
         "name": "Elowen",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Female"
       },
       {
@@ -486,12 +486,12 @@
       },
       {
         "name": "Sparrow",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Nonbinary"
       },
       {
         "name": "Iris",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Nonbinary"
       },
       {
@@ -531,22 +531,22 @@
       },
       {
         "name": "Zaragon",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Male"
       },
       {
         "name": "Thyra",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Female"
       },
       {
         "name": "Aelorin",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Male"
       },
       {
         "name": "Ysalyra",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Female"
       },
       {
@@ -621,12 +621,12 @@
       },
       {
         "name": "Xanthe",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Nonbinary"
       },
       {
         "name": "Zephyrus",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Nonbinary"
       },
       {
@@ -666,22 +666,22 @@
       },
       {
         "name": "Gronkthor",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Male"
       },
       {
         "name": "Fizzabella",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Female"
       },
       {
         "name": "Zephyros",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Male"
       },
       {
         "name": "Galaxia",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Female"
       },
       {
@@ -756,12 +756,12 @@
       },
       {
         "name": "Pixel",
-        "culture": "Dwarf",
+        "culture": "Dwarven",
         "gender": "Nonbinary"
       },
       {
         "name": "Zigzag",
-        "culture": "Elf",
+        "culture": "Elven",
         "gender": "Nonbinary"
       },
       {

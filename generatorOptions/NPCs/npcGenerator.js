@@ -28,9 +28,11 @@ const npcData = {
     document.getElementById('backgroundSelect').value = npcData.background;
     document.getElementById('physicalFlawsSelect').value = npcData.physicalFlaws;
     document.getElementById('existentialFlawsSelect').value = npcData.existentialFlaws;
+    console.log(npcData)
   }
 
 function generateNPC() {
+    populateForm();
     const selectedRace = document.getElementById('raceSelect').value;
     const selectedClass = document.getElementById('classSelect').value;
   
@@ -41,5 +43,3 @@ function generateNPC() {
       personality: npcOptions.personalities[Math.floor(Math.random() * npcOptions.personalities.length)]
     };
 }
-
-document.getElementById('generateButton').addEventListener('click', generateNPC);

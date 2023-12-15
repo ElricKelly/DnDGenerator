@@ -31,8 +31,10 @@
           <option value="nonbinary">Non-Binary</option>
         </select><br><br>
     
-        <label for="cultureInput">Culture:</label>
-        <select type="text" id="cultureInput"></select><br><br>
+        <label for="cultureSelect">Culture:</label>
+        <select type="text" id="cultureSelect">
+          <option value="random" selected>Select Culture</option>
+        </select><br><br>
     
         <label for="titlesQuantity">Titles (Select Quantity):</label>
         <input type="number" id="titlesQuantity" min="0"><br><br>
@@ -45,18 +47,18 @@
     
         <label for="classSelect">Class:</label>
         <select id="classSelect">
-          <option value="">Select Class</option>
+          <option value="random">Select Class</option>
         </select><br><br>
     
         <label for="subclassSelect">Subclass:</label>
         <select id="subclassSelect">
-          <option value="">Select Subclass</option>
+          <option value="random" selected>Select Class First</option>
           <!-- Subclass options will be populated dynamically based on class selection -->
         </select><br><br>
     
         <label for="raceSelect">Race:</label>
         <select id="raceSelect">
-          
+          <option value="random" selected>Select Race</option>
         </select><br><br>
 
         <label for="raceDeselect">Race (Deselect options):</label>
@@ -75,11 +77,11 @@
     
         <label for="backgroundSelect">Background:</label>
         <select id="backgroundSelect">
-          <option value="">Select Background</option>
+          <option value="random" selected>Random</option>
           <!-- Add background options here -->
         </select><br><br>
     
-        <button type="button" onclick="generateNPC()" class="btn btn-primary">Generate</button>
+        <button type="button" onclick="populateForm()" class="btn btn-primary">Generate</button>
       </form>
     </main>
 
